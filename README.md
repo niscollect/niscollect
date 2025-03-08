@@ -2,13 +2,23 @@
 
 # My name is Nishant Shukla
 
-I am a student
+#### I am a student
+![I am a student](https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
+
 I love learning new things, and pondering over solutions to real problems.
 
 I am currently learning Web Development, while trying my hands over DSA.
 I like tangible results, and hence I love web development. Still I'm in learning phase. Learning from people, surroundings and failed projects.
 I'm currently working on a Website for women safety on roads. 
 I have previously developed a platform connecting individual donors to NGOs and other Non-Profit Organizations.
+
+
+Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
 
 Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
