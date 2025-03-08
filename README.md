@@ -3,7 +3,7 @@
 # My name is Nishant Shukla
 
 
-(https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
+![I am a student](https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
 #### I am a student
 I love learning new things, and pondering over solutions to real problems.
 
