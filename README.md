@@ -15,7 +15,7 @@ I have previously developed a platform connecting individual donors to NGOs and 
 
 Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
