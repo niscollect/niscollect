@@ -13,9 +13,6 @@ I'm currently working on a Website for women safety on roads.
 I have previously developed a platform connecting individual donors to NGOs and other Non-Profit Organizations.
 
 
-Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
-
-
 
 
 Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
