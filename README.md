@@ -18,12 +18,8 @@ Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
 
 
 
-
-
-
 Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
