@@ -5,7 +5,7 @@
 
 ![I am a student](https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
 #### I am a student
-I’m a curious problem-solver who loves understanding how things work under the hood and building meaningful solutions. My main focus is on Operating Systems, Data Structures & Algorithms, and systems-level programming, while also exploring Web Development as a side pursuit.
+I’m a curious problem-solver who loves understanding how things work under the hood and building meaningful solutions. My main focus is on Operating Systems (systems-level programming), Data Structures & Algorithms, and Web Development.
 
 Current projects:
 Women Safety Website – building a platform to enhance road safety for women (side project)
@@ -14,7 +14,7 @@ Book, Food, & Clothes Donation Website – helping NGOs manage donations efficie
 OS & Systems Projects – exploring concurrency, memory management, and system desig
 
 
-💻 Skills:
+Skills:
 Operating Systems & Systems Programming (C, Concurrency, Memory Management)
 Data Structures & Algorithms
 Full Stack Development (MERN, Firebase, JS, HTML, CSS)
