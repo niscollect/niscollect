@@ -11,7 +11,7 @@ Current projects:
 Women Safety Website – building a platform to enhance road safety for women (side project)
 Book, Food, & Clothes Donation Website – helping NGOs manage donations efficiently
 
-OS & Systems Projects – exploring concurrency, memory management, and system desig
+OS & Systems Projects – exploring concurrency, memory management, and system design
 
 
 Skills:
