@@ -5,16 +5,22 @@
 
 ![I am a student](https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
 #### I am a student
-I love learning new things, and pondering over solutions to real problems.
+I’m a curious problem-solver who loves understanding how things work under the hood and building meaningful solutions. My main focus is on Operating Systems, Data Structures & Algorithms, and systems-level programming, while also exploring Web Development as a side pursuit.
 
-I am currently learning Web Development, while trying my hands over DSA.
-I like tangible results, and hence I love web development. Still I'm in learning phase. Learning from people, surroundings and failed projects.
-I'm currently working on a Website for women safety on roads. 
+Current projects:
+Women Safety Website – building a platform to enhance road safety for women (side project)
+Book, Food, & Clothes Donation Website – helping NGOs manage donations efficiently
+
+OS & Systems Projects – exploring concurrency, memory management, and system desig
 
 
+💻 Skills:
+Operating Systems & Systems Programming (C, Concurrency, Memory Management)
+Data Structures & Algorithms
+Full Stack Development (MERN, Firebase, JS, HTML, CSS)
+Practical software & project development
 
-
-Skills: Full Stack / MERN / Firebase / C / JS / HTML / CSS
+Always eager to learn, experiment, and create solutions that matter.
 
 
 
