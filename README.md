@@ -4,25 +4,17 @@
 
 
 ![I am a student](https://i.pinimg.com/736x/43/02/ad/4302adf0779fab92df4333e26f67b93a.jpg)
-#### I am a student
-I’m a curious problem-solver who loves understanding how things work under the hood and building meaningful solutions. My main focus is on Operating Systems (systems-level programming), Data Structures & Algorithms, and Web Development.
+#### I am a Computer Science & Engineering student interested in operating systems, systems programming, and infrastructure.
 
-Current projects:
-Women Safety Website – building a platform to enhance road safety for women (side project)
-Book, Food, & Clothes Donation Website – helping NGOs manage donations efficiently
+I enjoy understanding how software works beneath its abstractions and building systems to explore those ideas.
 
-OS & Systems Projects – exploring concurrency, memory management, and system design
+Systems projects
 
+In-memory key-value store — C++ / Linux / POSIX sockets / epoll / WAL / crash recovery
+Custom heap allocator — C / segregated free lists / concurrency / memory management
+CPU scheduler — C / scheduling algorithms / simulation
 
-Skills:
-Operating Systems & Systems Programming (C, Concurrency, Memory Management)
-Data Structures & Algorithms
-Full Stack Development (MERN, Firebase, JS, HTML, CSS)
-Practical software & project development
-
-Always eager to learn, experiment, and create solutions that matter.
-
-
+I also work on software engineering and web projects, but my current focus is low-level systems and infrastructure.
 
 
 
